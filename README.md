@@ -45,7 +45,7 @@ smart\_city\_assistant/
 
 | Summarization | Forecast | Tips |
 |---------------|----------|------|
-| ![Summary](https://github.com/PAVANTECH-06/smart_city_assistant/blob/main/screenshots/summarize.png) | ![Forecast](https://github.com/PAVANTECH-06/smart_city_assistant/blob/main/screenshots/forecast.png) | ![Tips](https://github.com/PAVANTECH-06/smart_city_assistant/blob/main/screenshots/tips.png) |
+| ![Summary](https://github.com/Nagendra14319/smart_city_assistant/blob/main/screenshots/summarize.png) | ![Forecast](https://github.com/PAVANTECH-06/smart_city_assistant/blob/main/screenshots/forecast.png) | ![Tips](https://github.com/Nagendra14319/smart_city_assistant/blob/main/screenshots/tips.png) |
 
 
 
