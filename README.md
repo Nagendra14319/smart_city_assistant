@@ -128,7 +128,7 @@ MIT License — use it freely, just give credit.
 
 ## 🙋 Author
 
-**Pavan Gubbala**
+**Appala Nagendra varma**
 GitHub: [Nagendra14319](https://github.com/Nagendra14319)
 Email: *nagendravarma1315@gmail.com*
 
