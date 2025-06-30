@@ -146,3 +146,11 @@ git add README.md
 git commit -m "Add README with project details"
 git push
 ````
+# Smart City Assistant 🏙️
+
+A smart web assistant for city service automation using AI.
+
+## 🎥 Project Demo
+
+Watch the demo video on [Google Drive](https://drive.google.com/file/d/1oiSsmggWS2vvt2Jcnhn9twe5NzWIdkSN/view?usp=drive_link)
+
