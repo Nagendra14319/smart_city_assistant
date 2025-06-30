@@ -129,8 +129,8 @@ MIT License — use it freely, just give credit.
 ## 🙋 Author
 
 **Pavan Gubbala**
-GitHub: [@PAVANTECH-06](https://github.com/PAVANTECH-06)
-Email: *gubbalapavan9347@gmail.com*
+GitHub: [Nagendra14319](https://github.com/Nagendra14319)
+Email: *nagendravarma1315@gmail.com*
 
 ---
 
