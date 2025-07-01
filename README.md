@@ -45,7 +45,7 @@ smart\_city\_assistant/
 
 | Summarization | Forecast | Tips |
 |---------------|----------|------|
-| ![Summary](https://github.com/PAVANTECH-06/smart_city_assistant/blob/main/screenshots/summarize.png) | ![Forecast](https://github.com/PAVANTECH-06/smart_city_assistant/blob/main/screenshots/forecast.png) | ![Tips](https://github.com/PAVANTECH-06/smart_city_assistant/blob/main/screenshots/tips.png) |
+| ![Summary](https://github.com/Nagendra14319/smart_city_assistant/blob/main/screenshots/summarize.png) | ![Forecast](https://github.com/Nagendra14319/smart_city_assistant/blob/main/screenshots/forecast.png) | ![Tips](https://github.com/Nagendra14319/smart_city_assistant/blob/main/screenshots/tips.png) |
 
 
 
@@ -55,7 +55,7 @@ smart\_city\_assistant/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/PAVANTECH-06/smart_city_assistant.git
+git clone https://github.com/Nagendra14319/smart_city_assistant.git
 cd smart_city_assistant
 ````
 
@@ -128,9 +128,9 @@ MIT License — use it freely, just give credit.
 
 ## 🙋 Author
 
-**Pavan Gubbala**
-GitHub: [@PAVANTECH-06](https://github.com/PAVANTECH-06)
-Email: *gubbalapavan9347@gmail.com*
+**Appala Nagendra varma**
+GitHub: [Nagendra14319](https://github.com/Nagendra14319)
+Email: *nagendravarma1315@gmail.com*
 
 ---
 
@@ -146,3 +146,11 @@ git add README.md
 git commit -m "Add README with project details"
 git push
 ````
+# Smart City Assistant 🏙️
+
+A smart web assistant for city service automation using AI.
+
+## 🎥 Project Demo
+
+Watch the demo video on [Google Drive](https://drive.google.com/file/d/1oiSsmggWS2vvt2Jcnhn9twe5NzWIdkSN/view?usp=sharing)
+
