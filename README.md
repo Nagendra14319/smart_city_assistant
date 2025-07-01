@@ -152,5 +152,5 @@ A smart web assistant for city service automation using AI.
 
 ## 🎥 Project Demo
 
-Watch the demo video on [Google Drive](https://drive.google.com/file/d/1oiSsmggWS2vvt2Jcnhn9twe5NzWIdkSN/view?usp=sharing)
+▶️ [![Demo Video](https://github.com/Nagendra14319/smart_city_assistant/blob/main/screenshots/Demo.png)](https://drive.google.com/file/d/1oiSsmggWS2vvt2Jcnhn9twe5NzWIdkSN/view?usp=sharing)
 
